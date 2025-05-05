@@ -1,0 +1,3 @@
+# Session
+A sequence of network HTTP basic auth requests and responses associated with the same user.
+
