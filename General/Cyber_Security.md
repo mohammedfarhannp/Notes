@@ -16,4 +16,10 @@ The user is only granted the minimum level of access and authorization required 
 **_Seperation of duties_** <br>
 Users should not be given levels of authorization that would allow them to misuse a system.
 
+**_Algorithm_** <br>
+A set of rules used to solve a problem.
+
+**_Cryptography_** <br>
+The process of transforming information into a form that unintended readers can't understand.
+
 
