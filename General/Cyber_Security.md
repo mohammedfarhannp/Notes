@@ -25,5 +25,7 @@ The process of transforming information into a form that unintended readers can'
 **_SOC_** <br>
 A SOC (Security Operations Center) is a dedicated facility operated by a specialized security team. This team aims to continuously monitor an organization’s network and resources and identify suspicious activity to prevent damage. This team works 24 hours a day, seven days a week.
 
+**_Vulnerability_**
+A vulnerability is a weakness that an attacker can exploit to carry out things beyond their permission level. A vulnerability might be discovered in any device’s software (operating system and programs), such as a server or computer.
 
 
