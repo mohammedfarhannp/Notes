@@ -28,4 +28,7 @@ A SOC (Security Operations Center) is a dedicated facility operated by a special
 **_Vulnerability_** <br>
 A vulnerability is a weakness that an attacker can exploit to carry out things beyond their permission level. A vulnerability might be discovered in any device’s software (operating system and programs), such as a server or computer.
 
+**_EDR_** <br>
+Endpoint Detection and Response
+
 
