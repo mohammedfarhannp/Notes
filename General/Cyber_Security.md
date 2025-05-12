@@ -22,4 +22,8 @@ A set of rules used to solve a problem.
 **_Cryptography_** <br>
 The process of transforming information into a form that unintended readers can't understand.
 
+**_SOC_** <br>
+A SOC (Security Operations Center) is a dedicated facility operated by a specialized security team. This team aims to continuously monitor an organization’s network and resources and identify suspicious activity to prevent damage. This team works 24 hours a day, seven days a week.
+
+
 
