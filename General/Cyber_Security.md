@@ -31,4 +31,7 @@ A vulnerability is a weakness that an attacker can exploit to carry out things b
 **_EDR_** <br>
 Endpoint Detection and Response
 
+**__Defense in Depth__** <br>
+Defence-in-Depth refers to creating a security system of multiple levels; hence it is also called Multi-Level Security.
+
 
