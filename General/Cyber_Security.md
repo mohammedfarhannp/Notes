@@ -37,4 +37,5 @@ Defence-in-Depth refers to creating a security system of multiple levels; hence 
 **_SMB_** <br>
 Server Message Block (network protocol)
 
-
+**_Telnet_** <br>
+Telnet is an application protocol which allows you, with the use of a telnet client, to connect to and execute commands on a remote machine that's hosting a telnet server.
