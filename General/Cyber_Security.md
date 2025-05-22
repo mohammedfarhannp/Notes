@@ -31,10 +31,10 @@ A vulnerability is a weakness that an attacker can exploit to carry out things b
 **_EDR_** <br>
 Endpoint Detection and Response
 
-**__Defense in Depth__** <br>
+**_Defense in Depth_** <br>
 Defence-in-Depth refers to creating a security system of multiple levels; hence it is also called Multi-Level Security.
 
-**__SMB__** <br>
+**_SMB_** <br>
 Server Message Block (network protocol)
 
 
