@@ -34,4 +34,7 @@ Endpoint Detection and Response
 **__Defense in Depth__** <br>
 Defence-in-Depth refers to creating a security system of multiple levels; hence it is also called Multi-Level Security.
 
+**__SMB__** <br>
+Server Message Block (network protocol)
+
 
