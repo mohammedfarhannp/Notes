@@ -34,6 +34,9 @@ Endpoint Detection and Response
 **_Defense in Depth_** <br>
 Defence-in-Depth refers to creating a security system of multiple levels; hence it is also called Multi-Level Security.
 
+**_CVE_** <br>
+A CVE, short for Common Vulnerabilities and Exposures, is a list of publicly disclosed computer security flaws. When someone refers to a CVE, they usually mean the CVE ID number assigned to a security flaw.
+
 **_SMB_** <br>
 Server Message Block (network protocol)
 
