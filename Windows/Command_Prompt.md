@@ -23,6 +23,12 @@ Copies a source file to destination.
 **_move <source> <destination>_** <br>
 Moves a source file to destination.
 
+**_del <file_name>_** <br>
+Deletes file.
+
+**_erase <file_name>_** <br>
+Deletes file.
+
 # System Information Commands
 **_set_** <br>
 Displays environment variables.
