@@ -5,6 +5,24 @@ Clears the terminal screen.
 **_dir_** <br>
 Lists all the files and folders in the current directory.
 
+**_type <file_name>_** <br>
+Displays the contents of a file.
+
+**_tree_** <br>
+Displays All the directories and sub-directories in a tree like format.
+
+**_mkdir <dir_name>_** <br>
+Creates a new directory.
+
+**_rmdir <dir_name>_** <br>
+Removes a directory if empty. 
+
+**_copy <source> <destination>_** <br>
+Copies a source file to destination.
+
+**_move <source> <destination>_** <br>
+Moves a source file to destination.
+
 # System Information Commands
 **_set_** <br>
 Displays environment variables.
