@@ -65,5 +65,22 @@ Retrieves the IP address related to a domain or host.
 Displays all the established connections. <br>
 (Use `-h` for additional arguement details.)
 
+# Process Management Commands
+**_tasklist_** <br>
+Displays all the running processes.
 
+**_tasklist /?_** <br>
+Displays all available filters.
 
+**_tasklist /FI "imagename eq sshd.exe"_** (Sample) <br>
+Displays all the process with image name equal to _sshd.exe_.
+
+**_taskkill /PID <process_pid>_** <br>
+Kills the process by the process id specified.
+
+# Disk Management Commands
+**_chkdsk_** <br>
+Checks the file system and disk volumes for errors and bad sectors.
+
+**_sfc /scannow_** <br>
+Scans system files for corruption and repairs them if possible.
