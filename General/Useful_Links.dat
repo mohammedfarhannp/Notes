@@ -1,3 +1,9 @@
 search CVE (Common Vulnerabilities & Exposures) for softwares in the following links...
   1. https://www.cvedetails.com/
   2. https://cve.mitre.org/
+
+search engines (Advanced)
+  1. shodan.io (specific types and versions of serves, networking equipment, industrial control systems, and IoT devices)
+  2. search.censys.io (hosts, websites, certificates, and other Internet assets)
+  3. virustotal.com (checks if file, website or filehash is malicious with various antivirus vendors)
+  4. haveibeenpwned.com (for checking if an email address is involved in any database breaches)
