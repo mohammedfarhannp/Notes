@@ -68,3 +68,19 @@ Example be like : `git pull origin master` <br>
    ```
 *(Use branch name instead of main, github website by default uses 'main' as the branch name, it can be changed. This repository branch name is 'master', I changed default to 'master')* <br>
 Now, you can simply use `git push` for future updates!
+
+4. **Get updates from remote repository at Github to Local Repo**
+   ```sh
+   git pull origin main --rebase
+   ```
+*(Use of --rebase is to get all the commits in the remote repository to local repo before our commits, this is done to avoid github merge conflicts)*
+
+5. **Change Branch on local git repo**
+   ```sh
+   git checkout -b <new branch>
+   git checkout -b Alter
+   git checkout main
+   ```
+
+   *(-b creates new branch and **checkout** is used to change branchs)*
+   
