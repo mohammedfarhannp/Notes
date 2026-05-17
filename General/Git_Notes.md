@@ -83,4 +83,9 @@ Now, you can simply use `git push` for future updates!
    ```
 
    *(-b creates new branch and **checkout** is used to change branchs)*
-   
+6. **Go Back to a commit**
+```sh
+git log # Find the hash of commit you want to go back to
+git reset --hard <hash>
+git push --forcs 
+```
